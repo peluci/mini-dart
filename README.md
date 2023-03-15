@@ -2,7 +2,7 @@
 This project was made for Programming Language Subject at college.
 
 # Objective
-Build from scratch a programming language interpreter. This project is inspired in Dart syntax and semantics.
+Build from scratch a programming language interpreter. This project is inspired in [Dart](https://dart.dev/) syntax and semantics.
 
 # Developing
 ## Step 1:

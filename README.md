@@ -22,7 +22,7 @@ Using a grammar in EBNF to make the parsing of the Programming Language. This gr
 ```
 
 ## Step 3:
-Implement the semantic of the interpreter, based on the last file of the PDF - it's a class diagrams. Preview of the file below.
+Implement the semantic of the interpreter, based on the last page of the [TP1.PDF](TP1.pdf) - it's a class diagrams. Preview of the file below.
 ![diagram](images/diagram.png)
 
 

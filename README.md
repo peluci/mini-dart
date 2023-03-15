@@ -10,7 +10,7 @@ Using a lexical automata to the lexemes of the language:
 ![automato](images/automate.png)
 
 ## Step 2:
-Using a grammar in EBNF to make the parsing of the Programming Language. This grammar is incomplete and full grammar is available in "TP1.pdf" file.
+Using a grammar in EBNF to make the parsing of the Programming Language. This grammar is incomplete and full grammar is available in [TP1.pdf](TP1.pdf) file.
 
 ```
 <code> ::= { <cmd> }
